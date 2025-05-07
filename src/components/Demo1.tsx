@@ -371,7 +371,7 @@ export const Choose = () => {
       <div className="flex flex-col h-140 w-100 rounded-2xl bg-orange-400 mt-10 pt-5 pb-5 pl-5 pr-5 hover:scale-110">
         <img className="h-100 w-100 object-cover" src="https://dam.thdstatic.com/content/production/dhhQKn2eAhS-ahyqPPVCmw/HkHliQ7a42tKuWlZXAXFZg/Original%20file/2023_RP3_Types_Smoke_Detectors.jpg?im=Resize=(703,395.44)"></img>
         <h1 className="font-extrabold text-2xl text-black pt-3">Types of Smoke Detectors</h1>
-        <p className="text-white font-extrabold">An essential safety tool for your home, smoke yddyhd detectors sound an alarm when they sense the presence of smoke in the air.</p>
+        <p className="text-white font-extrabold">An essential safety tool for your home, smoke  detectors sound an alarm when they sense the presence of smoke in the air.</p>
       </div>
 
     </div>
