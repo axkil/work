@@ -1,8 +1,7 @@
-import React from "react";
+
 import { GoPerson } from "react-icons/go"; 
 import { CiShoppingCart } from "react-icons/ci";
 import { IoStar } from "react-icons/io5";
-import { IoArrowForwardCircleOutline } from "react-icons/io5";
 import { FaShippingFast } from "react-icons/fa";
 import { IoChatbubbleEllipses } from "react-icons/io5";
 import { IoShieldCheckmark } from "react-icons/io5";
